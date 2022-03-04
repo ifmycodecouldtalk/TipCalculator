@@ -1,0 +1,10 @@
+.main-header {
+    background-color: indigo;
+    color: white;
+    text-align: center;
+}
+
+.tipping-cow {
+    position: relative;
+    top: 10px;
+}
